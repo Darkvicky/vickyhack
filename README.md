@@ -5,7 +5,7 @@ life has no ctrl+z
 
 Advance Method To Hack Mobile Or Pc Front (Selfie) Camera With A Link.
 <br>
-See This Image :-https://ibb.co/RbYvWG8
+
 
 # How it works?
 <p>The tool generates a malicious HTTPS page using Serveo or Ngrok Port Forwarding methods, and a javascript code to cam requests using MediaDevices.getUserMedia. </p>
