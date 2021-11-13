@@ -1,5 +1,8 @@
-# vickyhack
+# vick-yhack
+
 life has no ctrl+z 
+
+
 Advance Method To Hack Mobile Or Pc Front (Selfie) Camera With A Link.
 <br>
 See This Image :-https://ibb.co/RbYvWG8
