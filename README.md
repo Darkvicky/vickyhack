@@ -15,10 +15,10 @@ See This Image :-https://ibb.co/RbYvWG8
 [See more about MediaDEvices.getUserMedia() here](https://developer.mozilla.org/en-US/docs/Web/API/MediaDevices/getUserMedia)
 <p> To convince the target to grant permissions to access the cam, the page uses a javascript code made by https://github.com/wybiral that turns the favicon into a cam stream.</p>
 
-# New features
+# New features some in test beta
 <p>01. Work in Termux and Kali Linux</p>
-<p>02. Distract Victim To your favovrite website</p>
-<p>03. Hide your link with 4th url shortener</p>
+<p>02. 
+<p>03.Hide your link with 4th url shortener</p>
 <p>+-+ You will get victim .../p>
 <p>04. Ip</p>
 <p>05. User-Agent</p>
